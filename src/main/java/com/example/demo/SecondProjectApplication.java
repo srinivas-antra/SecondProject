@@ -8,6 +8,8 @@ public class SecondProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SecondProjectApplication.class, args);
+		
+		System.out.println("testing line");
 	}
 
 }
